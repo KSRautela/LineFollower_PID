@@ -36,4 +36,4 @@ Features
 
 ![WhatsApp Image 2025-04-27 at 13 58 11](https://github.com/user-attachments/assets/0e1ac52d-7561-4c10-b8bf-b826ffd4c3d8)
 ![WhatsApp Image 2025-04-27 at 13 58 11 (1)](https://github.com/user-attachments/assets/ca7fd60d-1d9e-4210-bdc4-f7f00be0b592)
-![image](https://github.com/user-attachments/assets/46b7e407-bf49-42c0-9032-6de654263b94)
+![image](https://github.com/user-attachments/assets/87f4f54b-e5cb-40c1-ae6f-a25406186ea7)
