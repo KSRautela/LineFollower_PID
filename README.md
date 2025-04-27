@@ -31,6 +31,3 @@ Features
   - **Run** the robot after calibration
 - LED status indicator
 - Easy PID tuning for different tracks
-- 
----
-
